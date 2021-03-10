@@ -1,4 +1,7 @@
 {
+  
+  "members": [
+{
 "firstName":"Tom",
 "lastName":"Jackson",
 "gender":"male"
@@ -22,4 +25,6 @@
 "firstName":"Andry",
 "lastName":"Carr",
 "gender":"male"
+}
+  ]
 }
